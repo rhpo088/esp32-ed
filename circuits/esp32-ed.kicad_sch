@@ -44,7 +44,7 @@
 			)
 		)
 		(instances
-			(project "esp32"
+			(project "esp32-ed"
 				(path "/30ff856e-674e-438e-8b42-e19b2abb5f90"
 					(page "1")
 				)

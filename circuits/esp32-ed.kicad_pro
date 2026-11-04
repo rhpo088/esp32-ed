@@ -257,7 +257,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp32.kicad_pro",
+    "filename": "esp32-ed.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -425,7 +425,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp32.kicad_sch",
+        "filename": "esp32-ed.kicad_sch",
         "name": "esp32",
         "uuid": "30ff856e-674e-438e-8b42-e19b2abb5f90"
       }
