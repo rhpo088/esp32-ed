@@ -1,2 +1,5 @@
 .pio
 .idea
+.DS_Store
+/circuits/.history/
+/circuits/~*

@@ -8,7 +8,7 @@ high and low states.
 ## Circuit
 
 ![A descriptive description of the image](./.assets/circuit-01.png)
-The circuit was designed in `KiCad`. The source schematic you can find `circuits` directory at the project root.
+The circuit was designed in `KiCad`. The source schematic you can find in `circuits` directory at the project root.
 
 ## Implementations
 
